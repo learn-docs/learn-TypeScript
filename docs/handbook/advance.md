@@ -618,7 +618,7 @@ $ tsc
 
 当我们在打开page.js文件时，我们可以发现：
  
-<img src="./assets/1633739e7.png" style="display: flex; margin: auto; width: 100%;"/>
+<img src="../assets/1633739e7.png" style="display: flex; margin: auto; width: 100%;"/>
 
 在全局作用域环境下，我们一次性引入了四个全局变量：Header、Content、Footer和Page。要解决这个问题，我们可以使用namespace命令空间：
 
@@ -658,7 +658,7 @@ namespace Home {
 
 随后，再次使用tsc命令重新编译代码，编译后的page.js如下：
 
-<img src="./assets/2f2eb95fe.png" style="display: flex; margin: auto; width: 100%;"/>
+<img src="../assets/2f2eb95fe.png" style="display: flex; margin: auto; width: 100%;"/>
 
 再次修改index.html中的代码，我们依然能够得到跟前面示例代码一样的输出结果：
 
