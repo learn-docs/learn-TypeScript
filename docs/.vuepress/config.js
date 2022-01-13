@@ -118,6 +118,9 @@ module.exports = {
 				children: [{
 					title: "TypeScript 基础",
 					path: "/handbook/base"
+				},{
+					title: "TypeScript 进阶",
+					path: "/handbook/advance"
 				}],
 			},
 		]
