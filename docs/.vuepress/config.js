@@ -114,7 +114,7 @@ module.exports = {
 			{
 				title: "基础学习",
 				path: '/handbook/base',
-				// collapsable: false, // 不折叠
+				collapsable: false, // 不折叠
 				children: [{
 					title: "TypeScript 基础",
 					path: "/handbook/base"
