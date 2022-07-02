@@ -1,6 +1,24 @@
 # learn-TypeScript 文档
 
-> 点击勘误[issues](https://github.com/webVueBlog/learn-TypeScript/issues)，哪吒感谢大家的阅读
+<img align='center' src='https://user-images.githubusercontent.com/59645426/176986170-b9ad3571-ed2c-4263-80c9-2611db10228c.jpg' width='350'>
+
+> 点击勘误[issues](https://github.com/webVueBlog/awesome-css/issues)，感谢大家的阅读
+
+```js
+yarn install // 安装依赖
+yarn serve // 预览
+```
+
+## 加入awesome-css
+
+- learn-TypeScript的最大好处就是可以锻炼解决TypeScript问题的思维能力。相信我，「如何去思考」​ 本身也是一项需要不断学习和练习的技能。
+
+> 如果你对本项目感兴趣，并且希望加入learn-TypeScript，欢迎随时提交 PR。请参考如下步骤：
+- 将本项目 fork 到你的个人 GitHub 帐户，然后 clone 到你的本地机器；
+- 进入 某 目录，切换到一个新的分支；
+- 对项目做出一些变更，然后使用 git add、commit、push 等命令将你的本地变更提交到你的远程 GitHub 仓库；
+- 将你的变更以 PR 的形式提交过来，项目的维护人员会在第一时间对你的变更进行 review！
+- 你也可以参考帮助文档 https://help.github.com/cn 了解更多细节。
 
 ## 学前必读
 
